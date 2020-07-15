@@ -3,9 +3,9 @@ This project aims to develop a MATLAB algorithm that flattens any warped image c
 The goal is to make the text in original image more readable for humans and OCR (optical character recognition).
 
 #### Expected outcome
-[!Expected](./target.png?raw=true)
+[!Expected](https://github.com/blitz555/image_dewarping_project/blob/master/expected.png)
 #### Actual outcome
-[!Actual](/actual.png?raw=true)
+[!Actual](https://github.com/blitz555/image_dewarping_project/blob/master/actual.png)
 
 ### Getting started
 Executing MATLAB code requires an installation of MATLAB. Open source alternatives such as GNU Octave may also work.
