@@ -2,14 +2,14 @@
 This project aims to develop a MATLAB algorithm that flattens any warped image containing text.
 The goal is to make the text in original image more readable for humans and OCR (optical character recognition).
 
-#### Expected outcome
+##### Expected outcome
 <p align="center">
   <img src="target.png" width="300">
 </p>
 
-#### Actual outcome
+##### Actual outcome
 <p align="center">
-  <img src="actual.png" width="600">
+  <img src="actual.png" width="800">
 </p>
 
 ### Getting started
