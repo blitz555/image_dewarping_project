@@ -4,12 +4,12 @@ The goal is to make the text in original image more readable for humans and OCR 
 
 #### Expected outcome
 <p align="center">
-  <img src="expected.png" width="500">
+  <img src="target.png" width="300">
 </p>
 
 #### Actual outcome
 <p align="center">
-  <img src="actual.png" width="500">
+  <img src="actual.png" width="600">
 </p>
 
 ### Getting started
